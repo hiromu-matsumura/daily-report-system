@@ -18,7 +18,7 @@
 <c:out value="${sessionScope.login_employee.name}" />
 <br /><br />
 
-<label for="name">氏名</label><br />
+<label for="title">タイトル</label><br />
 <input type="text" name="title" value="${report.title}" />
 <br /><br />
 
